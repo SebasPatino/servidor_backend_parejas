@@ -56,7 +56,7 @@ a cumplir estos acuerdos.
 ## 6. Firmas Digitales
 
 - [x] **Líder:** Karol Torres — `@Karolatf`
-- [] **Desarrollador:** Sebastian Patiño — `@SebasPatino`
+- [x] **Desarrollador:** Sebastian Patiño — `@SebasPatino`
 - [] **Desarrollador:** Paulo Zapata — `@Pauloz17`
 
 > *La creación de este archivo y los commits asociados representan la
